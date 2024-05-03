@@ -1,7 +1,7 @@
 {
-  "name": "ibc-app-solidity-template",
+  "name": "justinfotea",
   "version": "1.0.0",
-  "description": "Template project to start building IBC enabled Solidity contracts, with Hardhat and Foundry support",
+  "description": "Just Template",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/open-ibc/ibc-app-solidity-template.git"
+    "url": "https://github.com/justinfoair/justinfotea.git"
   },
   "keywords": [
     "IBC",
@@ -20,9 +20,9 @@
   "author": "Polymer Labs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/open-ibc/ibc-app-solidity-template/issues"
+    "url": "https://github.com/justinfoair/justinfotea/issues"
   },
-  "homepage": "https://github.com/open-ibc/ibc-app-solidity-template#readme",
+  "homepage": "https://github.com/justinfoair/justinfotea#readme",
   "devDependencies": {
     "@nomicfoundation/hardhat-foundry": "^1.1.1",
     "@nomicfoundation/hardhat-toolbox": "^4.0.0",
